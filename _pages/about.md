@@ -10,10 +10,17 @@ redirect_from:
 
 在进入清华大学之前，我先后在杭州师范大学历史系完成本科学习，以及在中国社会科学院大学历史系攻读硕士学位。
 
-A data-driven personal website
+论文发表
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
+1. **徐熠.** 商周金文所见族氏名与氏名异同略考[J]. 宝鸡文理学院学报(社会科学版), 2024, 44 (05): 14-22+54.
+2. **徐熠.** 商周金文所见“五”族略考——兼论晋南地区在商周之际的特殊性[J]. 文物季刊, 2024, (03): 89-100.
+3. **徐熠.** 禽簋铭文与鲁国初封——兼说“兆”之异体[J]. 石家庄学院学报, 2024, 26 (04): 42-49+68.
+4. **徐熠.** 商周胄族考论[J]. 三代考古, 2023, (00): 283-318.
+5. 宣柳, 刘逸鑫, **徐熠**, 王一凡. 历史学与考古学的融合:百年来“殷遗民”研究的回顾和展望[J]. 三代考古, 2023, (00): 399-434.
+6. **徐熠.** 商周時代的朿族[J]. 青铜器与金文, 2022, (01): 3-34.
+7. **徐熠.** 甲骨金文所见“四单”考论[J]. 殷都学刊, 2020, 41 (01): 12-23.
+8. **徐熠.**《甲骨金文所见周族考论——兼说一种特殊的商周族氏类型》，北京大学中国考古研究中心等编：《古代文明》（第18卷），2024.
+9. **徐熠.**《叶家山M111与大保封命》，北京大学出土文献与古代文明研究所编：《青铜器与金文》待刊
+10. **徐熠.** 《西周诸侯与邦伯关系略论》，《史学月刊》待刊
+11. **徐熠.**《商末周初殷遗铜器性质辨析》，《四川文物》待刊
 
