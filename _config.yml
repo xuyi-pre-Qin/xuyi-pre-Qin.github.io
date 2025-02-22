@@ -13,7 +13,7 @@ title                    : "徐熠-先秦史"
 title_separator          : "-"
 name                     : &name "徐熠"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://xuyi-pre-qin.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "徐熠.png"
   name             : "徐熠"
   pronouns         : # example: "she/her"  
   bio              : "上穷碧落下黄泉"
